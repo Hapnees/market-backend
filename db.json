@@ -1,0 +1,370 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"title": "AOS средство для мытья посуды Crystal",
+			"img": "https://market-backend-olive.vercel.app/products/product_2.png",
+			"typeSize": "мл",
+			"size": 450,
+			"amount": 1,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 2976799361252,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": false
+		},
+		{
+			"id": 2,
+			"title": "ARIEL Автомат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
+			"img": "https://market-backend-olive.vercel.app/products/product_3.png",
+			"typeSize": "г",
+			"size": 28.8,
+			"amount": 15,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 6146751648113,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": false
+		},
+		{
+			"id": 3,
+			"title": "BIMAX Порошок стиральный Автомат 100 пятен COMPACT",
+			"img": "https://market-backend-olive.vercel.app/products/product_4.png",
+			"typeSize": "г",
+			"size": 1500,
+			"amount": 1,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 5161678594816,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": true
+		},
+		{
+			"id": 4,
+			"title": "BIMAX Порошок стиральный Автомат 100 пятен COMPACT",
+			"img": "https://market-backend-olive.vercel.app/products/product_4.png",
+			"typeSize": "г",
+			"size": 1500,
+			"amount": 1,
+			"types": ["Бытовая химия"],
+			"stock": false,
+			"barcode": 8523335855661,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": false
+		},
+		{
+			"id": 5,
+			"title": "BioMio BIO-SOAP Экологичное туалетное мыло. Литсея и бергамот",
+			"img": "https://market-backend-olive.vercel.app/products/product_5.png",
+			"typeSize": "г",
+			"size": 90,
+			"amount": 1,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 1535458567,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": true
+		},
+		{
+			"id": 6,
+			"title": "AOS Ср-во для мытья посуды Апельсин+мята",
+			"img": "https://market-backend-olive.vercel.app/products/product_1.png",
+			"typeSize": "мл",
+			"size": 450,
+			"amount": 1,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 5736223163794,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": true
+		},
+		{
+			"id": 7,
+			"title": "AOS средство для мытья посуды Crystal",
+			"img": "https://market-backend-olive.vercel.app/products/product_2.png",
+			"typeSize": "мл",
+			"size": 450,
+			"amount": 1,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 2976799361252,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": true
+		},
+		{
+			"id": 8,
+			"title": "ARIEL Автомат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
+			"img": "https://market-backend-olive.vercel.app/products/product_3.png",
+			"typeSize": "г",
+			"size": 28.8,
+			"amount": 15,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 6146751648113,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": true
+		},
+		{
+			"id": 9,
+			"title": "BIMAX Порошок стиральный Автомат 100 пятен COMPACT",
+			"img": "https://market-backend-olive.vercel.app/products/product_4.png",
+			"typeSize": "г",
+			"size": 1500,
+			"amount": 1,
+			"types": ["Бытовая химия"],
+			"stock": false,
+			"barcode": 8523335855661,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": false
+		},
+		{
+			"id": 10,
+			"title": "BioMio BIO-SOAP Экологичное туалетное мыло. Литсея и бергамот",
+			"img": "https://market-backend-olive.vercel.app/products/product_5.png",
+			"typeSize": "г",
+			"size": 90,
+			"amount": 1,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 3567856322124,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": false
+		},
+		{
+			"id": 11,
+			"title": "AOS Ср-во для мытья посуды Апельсин+мята",
+			"img": "https://market-backend-olive.vercel.app/products/product_1.png",
+			"typeSize": "мл",
+			"size": 450,
+			"amount": 1,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 6476173418278,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": false
+		},
+		{
+			"id": 13,
+			"title": "ARIEL Автомат Гель СМС жидкое в растворимых капсулах Liquid Capsules Горный родник",
+			"img": "https://market-backend-olive.vercel.app/products/product_3.png",
+			"typeSize": "г",
+			"size": 28.8,
+			"amount": 15,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 8367136732986,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": false
+		},
+		{
+			"id": 14,
+			"title": "BIMAX Порошок стиральный Автомат 100 пятен COMPACT",
+			"img": "https://market-backend-olive.vercel.app/products/product_4.png",
+			"typeSize": "г",
+			"size": 1500,
+			"amount": 1,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 4654746211248,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": true
+		},
+		{
+			"id": 15,
+			"title": "BioMio BIO-SOAP Экологичное туалетное мыло. Литсея и бергамот",
+			"img": "https://market-backend-olive.vercel.app/products/product_5.png",
+			"typeSize": "г",
+			"size": 90,
+			"amount": 1,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 1924288414737,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": true
+		},
+		{
+			"id": 16,
+			"title": "AOS Ср-во для мытья посуды Апельсин+мята",
+			"img": "https://market-backend-olive.vercel.app/products/product_1.png",
+			"typeSize": "мл",
+			"size": 450,
+			"amount": 1,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 2739963753611,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": false
+		},
+		{
+			"id": 17,
+			"title": "AOS средство для мытья посуды Crystal",
+			"img": "https://market-backend-olive.vercel.app/products/product_2.png",
+			"typeSize": "мл",
+			"size": 450,
+			"amount": 1,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 2919533314141,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": false
+		},
+		{
+			"id": 18,
+			"title": "BIMAX Порошок стиральный Автомат 100 пятен COMPACT",
+			"img": "https://market-backend-olive.vercel.app/products/product_4.png",
+			"typeSize": "г",
+			"size": 1500,
+			"amount": 1,
+			"types": ["Бытовая химия"],
+			"stock": true,
+			"barcode": 4654746211248,
+			"producer": "Нэфис",
+			"brend": "AOS",
+			"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis, molestiae. Dolorem perspiciatis quae sunt iste dignissimos maiores commodi, unde recusandae similique dicta architecto veniam sit, totam magni distinctio nemo iusto!",
+			"price": 48.76,
+			"promo": true
+		}
+	],
+	"producers": [
+		{
+			"id": 1,
+			"title": "Grifon"
+		},
+		{
+			"id": 2,
+			"title": "Boyscout"
+		},
+		{
+			"id": 3,
+			"title": "Paclan"
+		},
+		{
+			"id": 4,
+			"title": "Булгари Грин"
+		},
+		{
+			"id": 5,
+			"title": "Нэфис"
+		}
+	],
+	"brends": [
+		{
+			"id": 1,
+			"title": "Nivea"
+		},
+		{
+			"id": 2,
+			"title": "GRIFON"
+		},
+		{
+			"id": 3,
+			"title": "Домашний сундук"
+		},
+		{
+			"id": 4,
+			"title": "HELP"
+		},
+		{
+			"id": 5,
+			"title": "AOS"
+		}
+	],
+	"types": [
+		{
+			"id": 1,
+			"title": "Бытовая химия"
+		},
+		{
+			"id": 2,
+			"title": "Уход за телом"
+		},
+		{
+			"id": 3,
+			"title": "Уход за руками"
+		},
+		{
+			"id": 4,
+			"title": "Уход за ногами"
+		},
+		{
+			"id": 5,
+			"title": "Уход за лицом"
+		},
+		{
+			"id": 6,
+			"title": "Уход за волосами"
+		},
+		{
+			"id": 7,
+			"title": "Средства для загара"
+		},
+		{
+			"id": 8,
+			"title": "Средства для бритья"
+		},
+		{
+			"id": 9,
+			"title": "Подарочные наборы"
+		},
+		{
+			"id": 10,
+			"title": "Гигиеническая продукция"
+		},
+		{
+			"id": 11,
+			"title": "Гигиена полости рта"
+		},
+		{
+			"id": 12,
+			"title": "Бумажная продукция"
+		}
+	]
+}
