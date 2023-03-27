@@ -320,9 +320,10 @@
 	"types": [
 		{
 			"id": 1,
-			"title": "Бытовая химия",
-			"img": "https://market-backend-olive.vercel.app/types/type_1.png"
+			"title": "Косметика и гигиена",
+			"img": "https://market-backend-olive.vercel.app/types/type_2.png"
 		},
+
 		{
 			"id": 2,
 			"title": "Уход за телом"
@@ -369,8 +370,8 @@
 		},
 		{
 			"id": 13,
-			"title": "Косметика и гигиена",
-			"img": "https://market-backend-olive.vercel.app/types/type_2.png"
+			"title": "Бытовая химия",
+			"img": "https://market-backend-olive.vercel.app/types/type_1.png"
 		},
 		{
 			"id": 14,
