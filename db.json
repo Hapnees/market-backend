@@ -320,7 +320,8 @@
 	"types": [
 		{
 			"id": 1,
-			"title": "Бытовая химия"
+			"title": "Бытовая химия",
+			"img": "https://market-backend-olive.vercel.app/types/type_1.png"
 		},
 		{
 			"id": 2,
@@ -365,6 +366,26 @@
 		{
 			"id": 12,
 			"title": "Бумажная продукция"
+		},
+		{
+			"id": 13,
+			"title": "Косметика и гигиена",
+			"img": "https://market-backend-olive.vercel.app/types/type_2.png"
+		},
+		{
+			"id": 14,
+			"title": "Товары для дома",
+			"img": "https://market-backend-olive.vercel.app/types/type_3.png"
+		},
+		{
+			"id": 15,
+			"title": "Товары для детей и мам",
+			"img": "https://market-backend-olive.vercel.app/types/type_4.png"
+		},
+		{
+			"id": 16,
+			"title": "Посуда",
+			"img": "https://market-backend-olive.vercel.app/types/type_5.png"
 		}
 	]
 }
