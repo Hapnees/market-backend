@@ -6,6 +6,9 @@
 	"repository": "git@github.com:Hapnees/market-backend.git",
 	"author": "Hapnees <8dwardm8lton@gmail.com>",
 	"license": "MIT",
+	"scripts": {
+		"start": "node index.js"
+	},
 	"dependencies": {
 		"json-server": "^0.17.3"
 	}
