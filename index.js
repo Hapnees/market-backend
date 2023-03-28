@@ -2,7 +2,7 @@ import jsonServer from 'json-server'
 
 const PORT = 3001
 const server = jsonServer.create()
-const router = jsonServer.router('db.json')
+const router = jsonServer.router('/tmp/db.json')
 const middlewares = jsonServer.defaults({ static: './static' })
 
 server.use(middlewares)
